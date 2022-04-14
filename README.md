@@ -15,6 +15,6 @@ When we enter the details -:
 
 
 
-Final result output -:
+Final result Output -:
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/68479220/163302078-1b8cb8e6-b0ca-4440-86d9-6b342ca73665.png)
