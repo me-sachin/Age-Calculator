@@ -9,7 +9,7 @@ Output Windows -:
 
 
 
-when we enter the details -:
+When we enter the details -:
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/68479220/163302074-05cfd3ca-d3da-48f4-8acb-5b049966b4bd.png)
 
