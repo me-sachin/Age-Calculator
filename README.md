@@ -3,7 +3,7 @@ This Program will calculate age in days months and in years.The program ask for 
 
 
 
-Output Windows   -:
+Output Windows  -:
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/68479220/163302071-40551a73-5b98-4160-851b-b170f0213f24.png)
 
